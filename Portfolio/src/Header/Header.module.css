@@ -1,0 +1,62 @@
+/* Header.module.css */
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #d2d2d2;
+  color: black;
+  z-index: 1000;
+}
+
+.logo {
+  width: 150px;
+}
+.logoContainer {
+  flex: 0 0 auto;
+  margin-right: 100px;
+  margin-left: 10px;
+}
+
+.navbar {
+  flex: 1 1 auto;
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-end;
+}
+
+.navItem {
+  margin-left: 20px;
+  font-size: 16px;
+  margin-right: 100px;
+  font-weight: 500;
+}
+
+.icon {
+  width: 25px;
+  height: auto;
+  margin-right: 5px;
+}
+
+/* Style for anchor tag */
+.navItem a {
+  color: black;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+/* Hover effect for anchor tag */
+.navItem:hover {
+  color: blue;
+}
