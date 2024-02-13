@@ -8,4 +8,7 @@ Estimated time to build 1 week
 ### Day 2
 ![image](https://github.com/eshwanthkartitr/portfolio/assets/111058542/5167cd3c-029f-4dbc-9995-44dadc885232)
 ### Day 3
+![image](https://github.com/eshwanthkartitr/portfolio/assets/111058542/e8778f45-9ffc-40f5-96fe-dad3e2b8a94d)
+- Added some Hovering Effect
+### Day 4
 Loading 🔃
