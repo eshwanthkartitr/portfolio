@@ -9,8 +9,8 @@
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  background-color: #d2d2d2;
-  color: black;
+  background-color: black;
+  color: #d2d2d2;
   z-index: 1000;
 }
 
@@ -50,7 +50,7 @@
 
 /* Style for anchor tag */
 .navItem a {
-  color: black;
+  color: #d2d2d2;
   text-decoration: none;
   display: flex;
   align-items: center;
