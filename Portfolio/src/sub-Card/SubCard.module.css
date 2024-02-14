@@ -1,0 +1,32 @@
+/* SubCard.module.css */
+
+.subCardContainer {
+  display: grid;
+  top: 50%;
+  left: 50%;
+  transform: translate(40%, 10%);
+  grid-template-columns: 318px 318px 318px;
+  gap: 10px; /* Adjust gap between cards */
+  justify-content: center; /* Center the grid horizontally */
+  align-items: center; /* Center the grid vertically */
+}
+
+.subCard {
+  width: 200px; /* Adjust width as needed */
+  height: 200px; /* Adjust height as needed */
+  background-color: #ccc; /* Adjust background color as needed */
+}
+
+.big {
+  width: 645px;
+  background-color: #ccc;
+}
+
+.big:nth-child(1) {
+  grid-column: 1 / span 2;
+}
+
+.small {
+  width: 318px; 
+  background-color: #ccc;
+}

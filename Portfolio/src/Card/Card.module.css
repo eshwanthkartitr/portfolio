@@ -8,7 +8,7 @@ span {
 span:hover {
   animation: glitch 2s steps(100) infinite;
 }
-    
+
 @keyframes glitch {
   0% {
     text-shadow: 1px 0 0 red, -1px 0 0 blue;
