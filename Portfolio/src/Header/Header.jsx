@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import logo from "../assets/my_logo.png";
+import React, { useState, useEffect } from "react";
+import logo from "../assets/s2.png";
 import styles from "./Header.module.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
@@ -13,10 +13,10 @@ function Header() {
       setIsMobile(window.innerWidth <= 768);
     };
 
-    window.addEventListener('resize', handleResize);
+    window.addEventListener("resize", handleResize);
 
     return () => {
-      window.removeEventListener('resize', handleResize);
+      window.removeEventListener("resize", handleResize);
     };
   }, []);
 
@@ -37,7 +37,8 @@ function Header() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github <FontAwesomeIcon className={styles.icon} icon={faGithub} />
+                Github{" "}
+                <FontAwesomeIcon className={styles.icon} icon={faGithub} />
               </a>
             </li>
             <li className={styles.navItem}>

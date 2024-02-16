@@ -34,6 +34,7 @@ function Card({
     transition: "background-color 0.3s ease",
     fontWeight: "normal",
     lineHeight: "1.5",
+    zIndex: 100,
   };
 
   const imageStyle = {

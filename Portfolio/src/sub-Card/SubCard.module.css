@@ -6,7 +6,7 @@
   left: 50%;
   transform: translate(40%, 10%);
   grid-template-columns: 318px 318px 318px;
-  gap: 10px; /* Adjust gap between cards */
+  gap: 20px; /* Adjust gap between cards */
   justify-content: center; /* Center the grid horizontally */
   align-items: center; /* Center the grid vertically */
 }
@@ -15,10 +15,11 @@
   width: 200px; /* Adjust width as needed */
   height: 200px; /* Adjust height as needed */
   background-color: #ccc; /* Adjust background color as needed */
+  border-radius: 40px;
 }
 
 .big {
-  width: 645px;
+  width: 656.5px;
   background-color: #ccc;
 }
 
@@ -27,6 +28,6 @@
 }
 
 .small {
-  width: 318px; 
+  width: 318px;
   background-color: #ccc;
 }

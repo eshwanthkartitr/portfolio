@@ -12,7 +12,7 @@ function App() {
       <Card
         x={161}
         y={400}
-        text="Hi i am a b.tech student from Amrita Vishwa Vidyapeetam and i am currently interested in AI related stuffs"
+        text="Hi i am a b.tech student from Amrita Vishwa Vidyapeetam and I am currently interested in AI related stuffs"
         color="white"
         bgcolor="#808080"
         font_size={19}
