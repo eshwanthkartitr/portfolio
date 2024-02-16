@@ -13,4 +13,6 @@ Estimated time to build 1 week
 ### Day 4
 ![image](https://github.com/eshwanthkartitr/portfolio/assets/111058542/d3116982-6b66-4388-b345-ec7f3d0174f7)
 ### Day 5
+![image](https://github.com/eshwanthkartitr/portfolio/assets/111058542/fc0742c7-db2c-49f2-a90a-0c9c015eb501)
+### Day 6
 Loading 🔃
